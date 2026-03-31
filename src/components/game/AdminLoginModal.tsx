@@ -30,7 +30,7 @@ export default function AdminLoginModal({ adminCode, onCodeChange, onLogin, onCl
             Войти
           </button>
         </div>
-        <div className="text-[10px] text-muted-foreground text-center mt-2 opacity-50">Подсказка: ADMIN2026</div>
+        <div className="text-[10px] text-muted-foreground text-center mt-2 opacity-50">Подсказка: admin123</div>
       </div>
     </div>
   );

@@ -68,7 +68,7 @@ export default function Index() {
   }, [state.currentPhone, notify]);
 
   const handleAdminLogin = () => {
-    if (adminCode === 'ADMIN2026') {
+    if (adminCode === 'admin123') {
       setShowAdmin(true);
       setShowAdminLogin(false);
       setAdminCode('');
